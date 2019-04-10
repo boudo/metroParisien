@@ -1,0 +1,1336 @@
+# stations et s du métro parisien//
+# format : V num_sommet nom_sommer
+#   E num_sommet1 num_sommet1 temps_en_secondes ligne direction
+V 0000 Abbesses
+V 0001 Alexandre Dumas
+V 0002 Alma Marceau
+V 0003 Alésia
+V 0004 Anatole France
+V 0005 Anvers
+V 0006 Argentine
+V 0007 Arts et Métiers
+V 0008 Arts et Métiers
+V 0009 Assemblée Nationale
+V 0010 Aubervilliers-Pantin, Quatre Chemins
+V 0011 Avenue Émile Zola
+V 0012 Avron
+V 0013 Barbès Rochechouart
+V 0014 Barbès Rochechouart
+V 0015 Basilique de Saint-Denis
+V 0016 Bastille
+V 0017 Bastille
+V 0018 Bastille
+V 0019 Bel Air
+V 0020 Belleville
+V 0021 Belleville
+V 0022 Bercy
+V 0023 Bercy
+V 0024 Bibliothèque François Mitterand
+V 0025 Billancourt
+V 0026 Bir-Hakeim
+V 0027 Blanche
+V 0028 Bobigny, Pablo Picasso
+V 0029 Bobigny-Pantin, Raymond Queneau
+V 0030 Boissière
+V 0031 Bolivar
+V 0032 Bonne Nouvelle
+V 0033 Bonne Nouvelle
+V 0034 Botzaris
+V 0035 Boucicaut
+V 0036 Boulogne, Jean Jaurès
+V 0037 Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube
+V 0038 Bourse
+V 0039 Brochant
+V 0040 Bréguet-Sabin
+V 0041 Buttes Chaumont
+V 0042 Buzenval
+V 0043 Bérault
+V 0044 Cadet
+V 0045 Cambronne
+V 0046 Campo-Formio
+V 0047 Cardinal Lemoine
+V 0048 Carrefour Pleyel
+V 0049 Censier Daubenton
+V 0050 Champs Élysées, Clémenceau
+V 0051 Champs Élysées, Clémenceau
+V 0052 Chardon Lagâche
+V 0053 Charenton-Écoles
+V 0054 Charles Michels
+V 0055 Charles de Gaulle, Étoile
+V 0056 Charles de Gaulle, Étoile
+V 0057 Charles de Gaulle, Étoile
+V 0058 Charonne
+V 0059 Chaussée d'Antin, La Fayette
+V 0060 Chaussée d'Antin, La Fayette
+V 0061 Chemin Vert
+V 0062 Chevaleret
+V 0063 Château Landon
+V 0064 Château Rouge
+V 0065 Château d'Eau
+V 0066 Château de Vincennes
+V 0067 Châtelet
+V 0068 Châtelet
+V 0069 Châtelet
+V 0070 Châtelet
+V 0071 Châtelet
+V 0072 Châtillon-Montrouge
+V 0073 Cité
+V 0074 Cluny, La Sorbonne
+V 0075 Colonel Fabien
+V 0076 Commerce
+V 0077 Concorde
+V 0078 Concorde
+V 0079 Concorde
+V 0080 Convention
+V 0081 Corentin Celton
+V 0082 Corentin-Cariou
+V 0083 Corvisart
+V 0084 Cour Saint-Émilion
+V 0085 Courcelles
+V 0086 Couronnes
+V 0087 Crimée
+V 0088 Croix de Chavaux
+V 0089 Créteil-Préfecture
+V 0090 Créteil-Université
+V 0091 Créteil-l'Echat, Hôpital Henri Mondor
+V 0092 Danube
+V 0093 Daumesnil
+V 0094 Daumesnil
+V 0095 Denfert Rochereau
+V 0096 Denfert Rochereau
+V 0097 Dugommier
+V 0098 Dupleix
+V 0099 Duroc
+V 0100 Duroc
+V 0101 Edgar Quinet
+V 0102 Esplanade de la Défense
+V 0103 Europe
+V 0104 Exelmans
+V 0105 Faidherbe-Chaligny
+V 0106 Falguière
+V 0107 Filles du Calvaire
+V 0108 Fort d'Aubervilliers
+V 0109 Franklin D. Roosevelt
+V 0110 Franklin D. Roosevelt
+V 0111 Félix Faure
+V 0112 Gabriel Péri, Asnières-Gennevilliers
+V 0113 Gaité
+V 0114 Galliéni
+V 0115 Gambetta
+V 0116 Gambetta
+V 0117 Gare d'Austerlitz
+V 0118 Gare d'Austerlitz
+V 0119 Gare de Lyon
+V 0120 Gare de Lyon
+V 0121 Gare de l'Est
+V 0122 Gare de l'Est
+V 0123 Gare de l'Est
+V 0124 Gare du Nord
+V 0125 Gare du Nord
+V 0126 Garibaldi
+V 0127 George V
+V 0128 Glacière
+V 0129 Goncourt
+V 0130 Grande Arche de la Défense
+V 0131 Guy Môquet
+V 0132 Havre Caumartin
+V 0133 Havre Caumartin
+V 0134 Hoche
+V 0135 Hôtel de Ville
+V 0136 Hôtel de Ville
+V 0137 Invalides
+V 0138 Invalides
+V 0139 Iéna
+V 0140 Jacques Bonsergent
+V 0141 Jasmin
+V 0142 Jaurès
+V 0143 Jaurès
+V 0144 Jaurès
+V 0145 Javel
+V 0146 Jourdain
+V 0147 Jules Joffrin
+V 0148 Jussieu
+V 0149 Jussieu
+V 0150 Kléber
+V 0151 La Chapelle
+V 0152 La Courneuve, 8 Mai 1945
+V 0153 La Fourche
+V 0154 La Motte Picquet, Grenelle
+V 0155 La Motte Picquet, Grenelle
+V 0156 La Motte Picquet, Grenelle
+V 0157 La Muette
+V 0158 La Tour-Maubourg
+V 0159 Lamarck Caulaincourt
+V 0160 Laumière
+V 0161 Le Kremlin-Bicêtre
+V 0162 Le Peletier
+V 0163 Ledru Rollin
+V 0164 Les Gobelins
+V 0165 Les Halles
+V 0166 Les Sablons
+V 0167 Liberté
+V 0168 Liège
+V 0169 Louis Blanc
+V 0170 Louis Blanc
+V 0171 Louise Michel
+V 0172 Lourmel
+V 0173 Louvre, Rivoli
+V 0174 Mabillon
+V 0175 Madeleine
+V 0176 Madeleine
+V 0177 Madeleine
+V 0178 Mairie d'Issy
+V 0179 Mairie d'Ivry
+V 0180 Mairie de Clichy
+V 0181 Mairie de Montreuil
+V 0182 Mairie de Saint-Ouen
+V 0183 Mairie des Lilas
+V 0184 Maison Blanche
+V 0185 Maisons-Alfort les Juilliottes
+V 0186 Maisons-Alfort, Stade
+V 0187 Malakoff-Plateau de Vanves
+V 0188 Malakoff-Rue Étienne Dolet
+V 0189 Malesherbes
+V 0190 Maraîchers
+V 0191 Marcadet Poissonniers
+V 0192 Marcadet Poissonniers
+V 0193 Marcel Sembat
+V 0194 Marx Dormoy
+V 0195 Maubert Mutualité
+V 0196 Michel Ange Auteuil
+V 0197 Michel Ange Auteuil
+V 0198 Michel Ange Molitor
+V 0199 Michel Ange Molitor
+V 0200 Michel Bizot
+V 0201 Mirabeau
+V 0202 Miromesnil
+V 0203 Miromesnil
+V 0204 Monceau
+V 0205 Montgallet
+V 0206 Montparnasse Bienvenue
+V 0207 Montparnasse Bienvenue
+V 0208 Montparnasse Bienvenue
+V 0209 Montparnasse Bienvenue
+V 0210 Mouton-Duvernet
+V 0211 Ménilmontant
+V 0212 Nation
+V 0213 Nation
+V 0214 Nation
+V 0215 Nation
+V 0216 Nationale
+V 0217 Notre Dame de Lorette
+V 0218 Notre-Dame-des-Champs
+V 0219 Oberkampf
+V 0220 Oberkampf
+V 0221 Odéon
+V 0222 Odéon
+V 0223 Opéra
+V 0224 Opéra
+V 0225 Opéra
+V 0226 Ourcq
+V 0227 Palais Royal, Musée du Louvre
+V 0228 Palais Royal, Musée du Louvre
+V 0229 Parmentier
+V 0230 Passy
+V 0231 Pasteur
+V 0232 Pasteur
+V 0233 Pelleport
+V 0234 Pernety
+V 0235 Philippe-Auguste
+V 0236 Picpus
+V 0237 Pierre Curie
+V 0238 Pigalle
+V 0239 Pigalle
+V 0240 Place Balard
+V 0241 Place Monge
+V 0242 Place d'Italie
+V 0243 Place d'Italie
+V 0244 Place d'Italie
+V 0245 Place de Clichy
+V 0246 Place de Clichy
+V 0247 Place des Fêtes
+V 0248 Place des Fêtes
+V 0249 Plaisance
+V 0250 Poissonnière
+V 0251 Pont de Levallois, Bécon
+V 0252 Pont de Neuilly
+V 0253 Pont de Sèvres
+V 0254 Pont-Marie
+V 0255 Pont-Neuf
+V 0256 Porte Dauphine
+V 0257 Porte Dorée
+V 0258 Porte Maillot
+V 0259 Porte d'Auteuil
+V 0260 Porte d'Italie
+V 0261 Porte d'Ivry
+V 0262 Porte d'Orléans
+V 0263 Porte de Bagnolet
+V 0264 Porte de Champerret
+V 0265 Porte de Charenton
+V 0266 Porte de Choisy
+V 0267 Porte de Clichy
+V 0268 Porte de Clignancourt
+V 0269 Porte de Montreuil
+V 0270 Porte de Pantin
+V 0271 Porte de Saint-Cloud
+V 0272 Porte de Saint-Ouen
+V 0273 Porte de Vanves
+V 0274 Porte de Versailles
+V 0275 Porte de Vincennes
+V 0276 Porte de la Chapelle
+V 0277 Porte de la Villette
+V 0278 Porte des Lilas
+V 0279 Porte des Lilas
+V 0280 Pré-Saint-Gervais
+V 0281 Pyramides
+V 0282 Pyramides
+V 0283 Pyrénées
+V 0284 Père Lachaise
+V 0285 Père Lachaise
+V 0286 Péreire
+V 0287 Quai de la Gare
+V 0288 Quai de la Rapée
+V 0289 Quatre Septembre
+V 0290 Rambuteau
+V 0291 Ranelagh
+V 0292 Raspail
+V 0293 Raspail
+V 0294 Rennes
+V 0295 Reuilly Diderot
+V 0296 Reuilly Diderot
+V 0297 Richard Lenoir
+V 0298 Richelieu Drouot
+V 0299 Richelieu Drouot
+V 0300 Riquet
+V 0301 Robespierre
+V 0302 Rome
+V 0303 Rue Montmartre, Grands Boulevards
+V 0304 Rue Montmartre, Grands Boulevards
+V 0305 Rue Saint-Maur
+V 0306 Rue de la Pompe
+V 0307 Rue des Boulets
+V 0308 Rue du Bac
+V 0309 Réaumur Sébastopol
+V 0310 Réaumur Sébastopol
+V 0311 République
+V 0312 République
+V 0313 République
+V 0314 République
+V 0315 République
+V 0316 Saint-Ambroise
+V 0317 Saint-Augustin
+V 0318 Saint-Denis-Porte de Paris
+V 0319 Saint-Denis-Université
+V 0320 Saint-Fargeau
+V 0321 Saint-Francois Xavier
+V 0322 Saint-Georges
+V 0323 Saint-Germain-des-Prés
+V 0324 Saint-Jacques
+V 0325 Saint-Lazare
+V 0326 Saint-Lazare
+V 0327 Saint-Lazare
+V 0328 Saint-Mandé, Tourelle
+V 0329 Saint-Marcel
+V 0330 Saint-Michel
+V 0331 Saint-Paul, Le Marais
+V 0332 Saint-Philippe du Roule
+V 0333 Saint-Placide
+V 0334 Saint-Sulpice
+V 0335 Saint-Sébastien-Froissart
+V 0336 Sentier
+V 0337 Simplon
+V 0338 Solférino
+V 0339 Stalingrad
+V 0340 Stalingrad
+V 0341 Stalingrad
+V 0342 Strasbourg Saint-Denis
+V 0343 Strasbourg Saint-Denis
+V 0344 Strasbourg Saint-Denis
+V 0345 Sully Morland
+V 0346 Sèvres Babylone
+V 0347 Sèvres Babylone
+V 0348 Sèvres Lecourbe
+V 0349 Ségur
+V 0350 Temple
+V 0351 Ternes
+V 0352 Tolbiac
+V 0353 Trinité d'Estienne d'Orves
+V 0354 Trocadéro
+V 0355 Trocadéro
+V 0356 Tuileries
+V 0357 Télégraphe
+V 0358 Vaneau
+V 0359 Varenne
+V 0360 Vaugirard
+V 0361 Vavin
+V 0362 Victor Hugo
+V 0363 Villejuif, Louis Aragon
+V 0364 Villejuif, Léo Lagrange
+V 0365 Villejuif, P. Vaillant Couturier
+V 0366 Villiers
+V 0367 Villiers
+V 0368 Volontaires
+V 0369 Voltaire
+V 0370 Wagram
+V 0371 École Militaire
+V 0372 École Vétérinaire de Maisons-Alfort
+V 0373 Église d'Auteuil
+V 0374 Église de Pantin
+V 0375 Étienne Marcel
+V 0376 Olympiade 
+V 0377 Creteil Pointe du Lac
+V 0378 Les Agnettes
+V 0379 Mairie de Montrouge
+V 0380 Aubervilliers Front Populaire
+V 0381 Asnières Gennevilliers les Courtilles
+V 0382 Saint-Lazare
+E 0 238 41 12 direction Mairie d'Issy
+E 0 159 46 12 direction Aubervilliers Front Populaire
+E 1 12 36 2 direction Nation
+E 1 235 44 2 direction Porte Dauphine
+E 2 110 69 9 direction Mairie de Montreuil
+E 2 139 50 9 direction Pont de Sèvres
+E 3 262 33 4 direction Mairie Montrouge
+E 3 210 41 4 direction Porte Clignancourt
+E 4 171 43 3 direction Gallieni
+E 4 251 35 3 direction Pont de Levallois Bécon
+E 5 13 67 2 direction Nation
+E 5 239 54 2 direction Porte Dauphine
+E 6 55 56 1 direction Château de Vincennes
+E 6 258 46 1 direction La Défense
+E 7 290 39 11 direction Châtelet 
+E 7 311 79 11 direction Mairie des Lillas
+E 8 350 38 3 direction Gallieni
+E 8 309 58 3 direction Pont de Levalois Bécon
+E 9 338 28 12 direction Mairie d'Issy
+E 9 78 62 12 direction Aubervilliers Front Populaire
+E 10 277 42 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 10 108 36 7 direction La Courneuve 8 Mai 1945
+E 11 154 32 10 direction Gare d'Austerlitz
+E 11 54 41 10 direction Boulogne Pont de St-Cloud
+E 12 213 42 2 direction Nation
+E 12 1 36 2 direction Porte Dauphine
+E 13 151 57 2 directon Nation
+E 13 5 67 2 direction Porte Dauphine
+E 14 124 46 4 direction Mairie Montrouge
+E 14 64 28 4 direction Porte de Clingnancourt
+E 15 318 37 13 direction Châtillon-Montrouge
+E 15 319 73 13 direction Saint-Denis Université
+E 16 119 98 1 direction Château de Vincennes
+E 16 331 62 1 direction La Défense
+E 17 288 89 5 direction Place d'Italie
+E 17 40 41 5 direction Baubigny Pablo Picasso
+E 18 163 32 8 direction Créteil Pointe du Lac
+E 18 61 56 8 direction Balard
+E 19 236 31 6 direction Nation
+E 19 93 33 6 direction Charles de Gaulle Etoile
+E 20 129 48 11 direction Châtelet
+E 20 283 38 11 direction Mairie des Lilas 
+E 21 86 46 2 direction Nation
+E 21 75 51 2 direction Porte Dauphine
+E 22 84 39 14 direction Olympiade
+E 22 120 81 14 direction Saint-Lazare
+E 23 97 35 6 direction Nation
+E 23 287 57 6 direction Charles de Gaulle Etoile
+E 24 84 51 14 direction Saint-Lazare
+E 24 376 70 14 direction Olympiade 
+E 25 193 42 9 direction Mairie de Montreuil
+E 25 253 35 9 direction Pont de Sèvres 
+E 26 98 31 6 direction Nation 
+E 26 230 64 6 direction Charles de Gaulle Etoile
+E 27 239 64 2 direction Nation
+E 27 246 59 2 direction Porte Dauphine
+E 28 29 79 5 direcrion Place d'Italie
+E 29 28 79 5 direction Bobigny, Pablo Picasso
+E 29 374 46 5 direction Place d'Italie
+E 30 354 24 6 direction Nation
+E 30 150 44 6 direction Charles de Gaulle Etoile
+E 31 41 28 7 Bis direction Hôpital Robert Debré
+E 31 144 36 7 Bis direction Louis Blanc
+E 32 343 54 8 direction Creteil Pointe du Lac 
+E 32 303 41 8 direction Balard
+E 33 344 52 9 direction Mairie de Montreuil 
+E 33 304 41 9 direction Pont de Sèvres
+E 34 248 36 7 Bis direction Hopital Robert Debré
+E 34 41 57 7 BIs direction Louis Blanc
+E 35 111 34 8 direction Creteil Pointe du Lac
+E 35 172 40 8 direction Balard
+E 36 198 105 10 direction Gare d'Austerlitz
+E 36 37 39 10 direction Boulogne Pont de St-Cloud
+E 37 36 39 10 direction Gare d'Austerlitz
+E 38 336 35 3 direction Gallieni
+E 38 289 38 3 direction Pont de Levallois Bécon
+E 39 153 38 13 direction Chatillon-Montrouge
+E 39 267 46 13 direction Les Courtilles Asnières-Gennevilliers
+E 40 297 37 5 direction Bobigny Pablo Picasso
+E 40 17 40 5 direction Place d'Italie
+E 42 190 42 9 direction Mairie de Montreuil
+E 42 215 35 9 direction Pont de Sèvres
+E 43 66 41 1 direction Château de Vincennes
+E 43 328 57 1 direction La Défense
+E 44 162 54 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 44 250 64 7 direction La Courneuve 8 mai 1945
+E 45 348 43 6 direction Nation
+E 45 155 35 6 direction Charles de Gaulle Etoile
+E 46 242 63 5 direction Place d'Italie
+E 46 329 46 5 direction Bobigny Pablo Picasso
+E 47 148 46 10 direction Gare d'Austerlitz
+E 47 195 41 10 direction Boulogne Pont de St-Cloud
+E 48 182 66 13 direction Chatillon-Montrouge
+E 48 318 60 13 direction Saint-Denis Université
+E 49 164 42 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 49 241 40 7 direction La Courneuve 8 mai 1945
+E 50 77 54 1 direction Château de Vincennes
+E 50 109 62 1 direction La Défense
+E 51 137 62 13 direction Chatillon-Montrouge
+E 51 202 69 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 52 201 20 10 direction Gare d'Austerlitz
+E 53 372 47 8 direction Creteil Pointe du Lac
+E 53 167 33 8 direction Balard
+E 54 145 51 10 direction Boulogne Pont de St-Cloud
+E 54 11 41 10 direction Gare d'Austerlitz
+E 55 127 60 1 direction Château de Vincennes
+E 55 6 56 1 direction La D\E9fense
+E 56 351 59 2 direction Nation
+E 56 362 75 2 direction Porte Dauphine
+E 57 150 35 6 direction Nation 
+E 58 307 31 9 direction Mairie de Montreuil
+E 58 369 31 9 direction Pont de Sèvres
+E 59 224 72 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 59 162 53 7 direction La Courneuve 8 Mai 1945
+E 60 299 63 9 direction Mairie de Montreuil
+E 60 133 45 9 direction Pont de Sèvres
+E 61 335 28 8 direction Balard
+E 61 18 56 8 direction Créteil Pointe du Lac 
+E 62 287 53 6 direction Nation 
+E 62 216 48 6 direction Charles de Gaulle Etoile
+E 63 123 44 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 63 169 57 7 direction La Courneuve 8 Mai 1945
+E 64 192 57 4 direction Porte de Clingnancourt
+E 64 14 28 4 direction Mairie Montrouge 
+E 65 342 41 4 direction Mairie Montrouge
+E 65 121 57 4 direction Porte de Clingnancourt
+E 66 43 41 1 direction La Défense 
+E 67 135 87 1 direction Château de Vincennes
+E 67 173 51 1 direction La Défense
+E 68 136 85 11 direction Mairie des Lilas 
+E 69 120 287 14 direction Olympiade
+E 69 281 131 14 direction Saint-Lazare
+E 70 73 45 4 direction Mairie de Montrouge
+E 70 165 66 4 direction Porte de Clignancourt
+E 71 254 73 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 71 255 37 7 direction La Courneuve 8 mai 1945
+E 72 188 52 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 73 330 46 4 direction Mairie de Montrouge 
+E 73 70 45 4 direction Porte de Clignancourt
+E 74 195 44 10 direction Gare d'Austerlitz
+E 74 221 52 10 direction Boulogne Pont de St-Cloud
+E 75 142 93 2 direction Porte Dauphine
+E 75 21 51 2 direction Nation
+E 76 156 59 8 direction Creteil Pointe du Lac
+E 76 111 30 8 direction Balard
+E 77 356 57 1 direction Château de Vincennes
+E 77 50 54 1 direction La Défense
+E 78 175 41 12 direction Aubervilliers Front Populaire
+E 78 9 62 12 direction Mairie d'Issy
+E 79 177 41 8 direction Creteil Pointe du Lac
+E 79 138 71 8 direction Balard
+E 80 274 41 12 direction Mairie d'Issy
+E 80 360 49 12 direction Aubervilliers Front Populaire
+E 81 178 43 12 direction Mairie d'Issy
+E 81 274 43 12 direction Aubervilliers Front Populaire
+E 82 87 32 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 82 277 47 7 direction La Courneuve 8 mai 1945
+E 83 243 36 6 direction Nation
+E 83 128 49 6 direction Charles de Gaulle Etoile
+E 84 22 39 14 direction Saint-Lazare
+E 84 24 51 14 direction Olympiade
+E 85 204 47 2 direction Nation
+E 85 351 46 2 direction Porte Dauphine
+E 86 211 37 2 direction Nation
+E 86 21 46 2 direction Porte Dauphine
+E 87 300 43 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 87 82 32 7 direction La Courneuve 8 mai 1945
+E 88 181 44 9 direction Mairie de Montreuil
+E 88 301 47 9 direction Pont de Sèvres
+E 89 90 29 8 direction Balard
+E 89 377 30 8 direction Creteil Pointe du Lac
+E 90 91 26 8 direction Balard
+E 90 89 29 8 direction Creteil Pointe du Lac
+E 91 185 27 8 direction Balard 
+E 91 90 26 8 direction Creteil Pointe du Lac
+E 92 34 37 7 Bis direction Louis Blanc
+E 93 97 45 6 direction Charles de Gaulle Etoile
+E 93 19 33 6 direction Nation
+E 94 200 27 8 direction Creteil Pointe du Lac
+E 94 205 39 8 direction Balard
+E 95 210 48 4 direction Mairie de Montrouge
+E 95 292 37 4 direction Porte de Clignancourt
+E 96 324 52 6 direction Nation
+E 96 293 42 6 direction Charles de Gaulle Etoile
+E 97 93 46 6 direction Nation
+E 97 23 35 6 direction Charles de Gaulle Etoile
+E 98 155 69 6 direction Nation
+E 98 26 31 6 direction Charles de Gaulle Etoile
+E 99 358 31 10 direction Gare d'Austerlitz
+E 99 349 54 10 direction Boulogne Pont de St-Cloud
+E 100 207 113 13 direction Chatillon-Montrouge
+E 100 321 59 13 direction Saint-Denis Université ou Asnière Gennevilliers 
+E 101 293 43 6 direction Nation
+E 101 209 36 6 direction Charles de Gaulle Etoile
+E 102 252 35 1 direction Château de Vincennes
+E 102 130 37 1 direction La Défense
+E 103 327 44 3 direction Gallieni
+E 103 367 30 3 direction Pont de Levallois Bécon
+E 104 199 62 9 direction Mairie de Montreuil
+E 104 271 40 9 direction Pont de Sèvres
+E 105 296 42 8 direction Creteil Point du Lac
+E 105 163 47 8 directionBalard 
+E 106 231 29 12 direction Mairie d'Issy
+E 106 206 36 12 direction Aubervilliers Front Populaire
+E 107 335 49 8 direction Creteil Pointe du Lac
+E 107 314 49 8 direction Balard
+E 108 152 29 7 direction La Courneuve 8 mai 1945
+E 108 10 36 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 109 127 59 1 direction La Défense
+E 109 50 52 1 direction Château de Vincennes
+E 110 332 37 9 direction Mairie de Montreuil
+E 110 2 69 9 direction Pont de Sèvres
+E 111 76 30 8 direction Creteil Pointe du Lac
+E 111 35 34 8 direction Balard
+E 112 180 71 13 direction Chatillon-Montrouge
+E 112 378 31 13 direction Asnières Genevilliers
+E 113 234 36 13 direction Chatillon-Montrouge
+E 113 207 47 13 direction Saint-Denis Université ou Asnière Gennevilliers 
+E 114 263 72 3 direction Pont de Levallois Bécon
+E 115 263 39 3 direction Gallieni
+E 115 285 70 3 direction Pont de Levallois Bécon
+E 116 233 50 3 Bis direction Porte des Lilas
+E 117 148 59 10 direction Pont de St-Cloude
+E 118 329 60 5 direction Place d'Italie
+E 118 288 30 5 direction Bobigny Pablo Picasso
+E 119 295 41 1 direction Château de Vincennes
+E 119 16 98 1 direction La Défense
+E 120 69 287 14 direction Saint -Lazard
+E 120 22 81 14 direction Olynpiade
+E 121 124 67 4 direction Porte de Clignancourt
+E 121 65 57 4 direction Mairie de Montrouge
+E 122 140 103 5 direction Place d'Italie
+E 122 125 59 5 direction Pablo Picasso
+E 123 250 51 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 123 63 44 7 direction La Courneuve 8 mai 1945
+E 124 121 4 4 direction Mairie de Montrouge
+E 124 14 46 4 direction Porte de Clignancourt
+E 125 340 107 5 direction Pablo Picasso
+E 125 122 59 5 direction Place d'Italie
+E 126 272 37 13 direction Chatillon-Montrouge
+E 126 182 42 13 direction Saint-Denis Université
+E 127 55 60 1 direction La Défense
+E 127 109 59 1 direction Château de Vincennes
+E 128 324 42 6 direction Charles de Gaulle Etoile
+E 128 83 49 6 direction Nation
+E 129 311 49 11 direction Châtelet
+E 129 20 48 11 direction Mairie des Lilas
+E 130 102 37 1 direcgtion Château de Vincennes
+E 131 153 72 13 direction Chatillon-Montrouge
+E 131 272 63 13 direction Saint-Denis Université
+E 132 223 68 3 direction Gallieni
+E 132 327 40 3 direction Pont de Levallois Bécon
+E 133 317 49 9 direction Pont de Sèvres
+E 133 60 45 9 direction Mairie de Montreuil
+E 134 270 47 5 direction Place d'Italie
+E 134 374 53 5 direction Bobigny Pablo Picasso
+E 135 331 65 1 direction Château de Vincennes
+E 135 67 87 1 direction La Défense
+E 136 290 73 11 direction Mairie des Lilas
+E 136 68 85 11 direction Châtelet
+E 137 359 54 13 direction Chatillon-Montrouge
+E 137 51 62 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 138 158 57 8 direction Balard
+E 138 79 71 8 Créteil Pointe de Lac
+E 139 355 46 9 direction Pont de Sèvres
+E 139 2 50 9 direction Mairie de Montreuil
+E 140 313 47 5 direction Place d'Italie
+E 140 122 103 5 direction Bobigny Pablo Picasso
+E 141 291 37 9 direction Mairie de Montreuil
+E 141 197 49 9 direction Pont de Sèvres
+E 142 339 27 2 direction Porte Dauphine
+E 142 75 93 2 direction Nation
+E 143 340 29 5 direction Place d'Italie
+E 143 160 44 5 direction Bobigny Pablo Picasso
+E 144 170 46 7 Bis direction Luis Blanc
+E 144 31 36 7 Bis direction Pré St-Gervais
+E 145 373 55 10 direction Boulogne Pont de St-Cloud
+E 145 54 51 10 direction Gare d'Austerlitz
+E 146 247 50 11 direction Mairie des Lilas 
+E 146 283 33 11 direction Châtelet
+E 147 159 44 12 direction Mairie d'Issy
+E 147 191 49 12 direction Aubervilliers Front Populaire
+E 148 47 46 10 direction Boulogne Pont de St-Cloud
+E 148 117 59 10 direction Gare Austerlitz
+E 149 241 57 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 149 345 79 7 direction La Courneuve 8 mai 1945
+E 150 57 35 6 direction Charles de Gaulle, Étoile
+E 150 30 44 6 direction Nation
+E 151 339 93 2 direction Nation
+E 151 13 57 2 directon Porte Dauphine
+E 152 108 29 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 153 245 64 13 direction Chatillon-Montrouge
+E 153 131 72 13 direction Saint-Denis-Université
+E 153 39 38 13 direction Asnières Gennevilliers les Courtilles
+E 154 349 33 10 direction Gare d'Austerlitz
+E 154 11 32 10 direction Boulogne Pont de St-Cloud
+E 155 98 69 6 direction Charles de Gaulle Etoile
+E 155 45 35 6 direction Nation
+E 156 371 46 8 direction Créteil Pointe du Lac
+E 156 76 59 8 direction Balard
+E 157 306 36 9 direction Mairie de Montreuil
+E 157 291 49 9 direction Pont de Sèvres
+E 158 371 66 8 direction Balard
+E 158 138 57 8 direction Créteil Pointe du Lac
+E 159 147 44 12 direction Aubervilliers Front Populaire
+E 159 0 46 12 direction Marie d'Issy
+E 160 226 40 5 direction Bobigny Pablo Picasso
+E 160 143 44 5 direction Place d'Italie
+E 161 364 28 7 direction Villejuif-Louis Aragon
+E 161 184 39 7 direction La Courneuve 8 Mai 1945
+E 162 59 53 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 162 44 54 7 La Courneuve 8 Mai 19457
+E 163 18 32 8 direction Balard
+E 163 105 47 8 direction Créteil Point du Lac
+E 164 244 60 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 164 49 42 7 direction La Courneuve 8 Mai 1945
+E 165 375 33 4 direction Porte de Clignancourt
+E 165 70 66 4 direction Mairie de Montrouge
+E 166 258 38 1 direction Château de Vincennes
+E 166 252 37 1 direction La Défense
+E 167 265 31 8 direction Balard
+E 167 53 33 8 direction Créteil Pointe du Lac
+E 168 326 49 13 direction Châtillon Montrouge
+E 168 245 28 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 169 341 54 7 direction La Courneuve 8 mai 1945
+E 169 63 57 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 170 144 46 7 Bis direction Pré St-Gervais
+E 171 264 49 3 direction Gallieni
+E 171 4 43 3 direction Pont de Levallois Bécon
+E 172 240 35 8 direction Balard
+E 172 35 40 8 direction Créteil Pointe du Lac
+E 173 227 34 1 direction La Défende
+E 173 67 51 1 direction Château de Vincennes
+E 174 221 31 10 direction Gare Austerlitz
+E 174 346 72 10 direction Boulogne Pont de St-Cloud
+E 175 325 144 12 direction Aubervilliers Front Populaire
+E 175 78 41 12 direction Mairie d'Issy
+E 176 281 71 14 direction Olympiades
+E 176 382 80 14 direction Saint-Lazare
+E 177 225 88 8 direction Créteil Pointe du Lac
+E 177 79 41 8 direction Balard
+E 178 81 43 12 direction Aubervilliers Front Populaire
+E 179 237 37 7 direction La Courneuve 8 Mai 1945
+E 180 267 91 13 direction Chatillon-Montrouge
+E 180 112 71 13 direction Asnières Genevilliers
+E 181 88 44 9 direction Pont de Sèvres
+E 182 48 66 13 direction Saint-Denis Université
+E 182 126 42 13 direction Chatillon-Montrouge
+E 183 278 51 11 direction Châtelet
+E 184 260 31 7 directon Mairie d'Ivry
+E 184 352 36 7 direction La Courneuve 8 Mai 1945
+E 184 161 39 7 direction Villejuif-Louis Aragon
+E 185 186 26 8 directoin Balard
+E 185 91 27 8 direction Créteil Pointe du Lac
+E 186 372 33 8 direction Balard
+E 186 185 26 8 direction Créteil Pointe du Lac
+E 187 188 34 13 direction Châtillon Montrouge
+E 187 273 46 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 188 187 34 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 188 72 52 13 direction Châtillon Montrouge
+E 189 367 49 3 direction Gallieni
+E 189 370 35 3 direction Pont de Levallois Bécon
+E 190 269 27 9 direction Mairie de Montreuil
+E 190 42 42 9 direction Pont de Sèvres
+E 191 194 67 12 direction Aubervilliers Front Populaire
+E 191 147 49 12 direction Mairie d'Issy
+E 192 337 36 4 direction Porte de Clignancourt
+E 192 64 57 4 direction Mairie de Montrouge
+E 193 271 38 9 direction Mairie de Montreuil
+E 193 25 42 9 direction Pont de Sèvres
+E 194 276 67 12 direction Aubervilliers Front Populaire
+E 194 191 7 12 Mairie d'Issy
+E 195 47 41 10 direction Gare d'Austerlitz
+E 195 74 44 10 direction Boulogne Pont de St-Cloud
+E 196 259 47 10 direction Boulogne Pont de St-Cloud
+E 197 199 28 9 direction Pont de Sèvres
+E 197 141 49 9 direction Mairie de Montreuil
+E 198 52 42 10 direction Gare d'Austerlitz
+E 199 197 28 9 direction Mairie de Montreuil
+E 199 104 62 9 direction Pont de Sèvres
+E 200 257 51 8 direction Créteil Pionte de Lac
+E 200 94 27 8 direction Balard
+E 201 145 46 10 direction Gare Austerlitz
+E 202 326 112 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 202 51 69 13 direction Châtillon Montrouge
+E 203 317 53 9 direction Mairie de Montreuil
+E 203 332 40 9 direction Pont de Sèvres
+E 204 366 51 2 direction Nation
+E 204 85 47 2 direction Porte Dauphine
+E 205 94 39 8 direction Créteil Pionte de Lac
+E 205 296 38 8 direction Balard
+E 206 218 45 12 direction Aubervilliers Front Populaire
+E 206 106 36 12 direction Mairie d'Issy
+E 207 113 47 13 direction Châtillon Montrouge
+E 207 100 113 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 208 361 42 4 direction Maire de Montrouge
+E 208 333 48 4 direction Porte de Clignancourt
+E 209 232 54 6 direction Charles de Gaulle Etoile
+E 209 101 36 6 direction Nation
+E 210 3 41 4 direction Mairie de Montrouge
+E 210 95 48 4 direction Porte Clignancourt
+E 211 284 49 2 direction Nation
+E 211 86 37 2 direction Porte Dauphine
+E 212 275 86 1 direction Château de Vincennes
+E 212 295 64 1 direction Défense
+E 213 12 42 2 direction Porte Dauphine
+E 214 236 42 6 direction Charles de Gaulle Etoile
+E 215 307 60 9 direction Pont de Sèvres
+E 215 42 35 9 direction Mairie de Montreil
+E 216 243 55 6 direction Charles de Gaulle Etoile
+E 216 62 48 6 direction Nation
+E 217 353 29 12 direction Mairie d'Issy
+E 217 322 37 12 direction Aubervilliers Front Populaire
+E 218 294 38 12 direction Aubervilliers Front Populaire
+E 218 206 45 12 direction Mairie d'Issy
+E 219 297 50 5 direction Place d'Italie
+E 219 313 81 5 direction Bobigny Pablo Picasso
+E 220 316 35 9 direction Mairie de Montreil
+E 220 315 80 9 directon Pont de Sèvres
+E 221 174 31 10 direction Boulogne Pont de St-Cloud
+E 221 74 52 10 direction Gare Austerlitz
+E 222 323 42 4 direction Mairie de Montrouge
+E 222 330 31 4 direction Porte de Clignancourt
+E 223 289 43 3 direction Gallieni
+E 223 132 68 3 direction Pont de Levallois Bécon
+E 224 282 80 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 224 59 72 7 direction La Courneuve 8 mai 1945
+E 225 298 75 8 direction Créteil Point du Lac
+E 225 177 88 8 direction Balard
+E 226 270 39 5 direction Bobigny, Pablo Picasso
+E 226 160 40 5 direction Place d'Italie
+E 227 356 38 1 direction Défense
+E 227 173 34 1 direction Château de Vincennes
+E 228 255 53 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 228 282 49 7 direction La Courneuve 8 mai 1945
+E 229 305 43 3 direction Gallieni
+E 229 312 64 3 direction Pont de Levallois 
+E 230 354 62 6 direction Charles de Gaulle Etoile
+E 230 26 64 6 direction Nation
+E 231 368 40 12 direction Mairie d'Issy
+E 231 106 29 12 direction Aubervillier Front Populaire
+E 232 348 46 6 directoin Charles de Gaulle Etoile
+E 232 209 54 6 direction Nation
+E 233 320 33 3 Bis direction Porte des Lilas
+E 233 116 50 3 Bis direction Ganbetta
+E 234 249 38 13 direction Chatillon-Montrouge
+E 234 113 36 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 235 284 44 2 direction Porte Dauphine
+E 235 1 44 2 direction Nation
+E 236 214 42 6 direction Nation
+E 236 19 31 6 direction Charles de Gaulle Etoile
+E 237 261 37 7 direction La Courneuve 8 mai 1945
+E 237 179 37 7 direction Mairie d'Ivry
+E 238 322 27 12 direction Mairie d'Issy
+E 238 0 41 12 direction Aubervillier Front Populaire
+E 239 5 54 2 direction Nation
+E 239 27 64 2 direction Porte Dauphine
+E 240 172 35 8 direction Créteil Pionte du Lac
+E 241 149 57 7 direction La Courneuve 8 mai 1945
+E 241 49 40 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 242 46 63 5 direction Bobigny Pablo Picasso
+E 243 83 36 6 direction Charles de Gaulle Etoile
+E 243 216 55 6 direction Nation
+E 244 352 37 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 244 164 60 7 direction La Courneuve 8 mai 1945
+E 245 153 64 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 245 168 28 13 direction Châtillon Montrouge
+E 246 302 37 2 direction Porte Dauphine
+E 246 27 59 2 direction Nation
+E 247 357 23 11 direction Mairie des Lilas
+E 247 146 50 11 direction Châtelet 
+E 248 280 57 7 Bis direction Pré-Saint-Gervais
+E 249 273 35 13 direction Chatillon-Montrouge
+E 249 234 38 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 250 44 64 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 250 123 51 7 direction La Courneuve 8 mai 1945
+E 251 4 35 3 direction Gallieni
+E 252 102 35 1 direction La Défense
+E 252 166 37 1 direction Château de Vincennes
+E 253 25 35 9 direction Mairie de Montreil
+E 254 345 75 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 254 71 73 7 direction La Courneuve 8 mai 1945
+E 255 71 37 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 255 228 53 7 direction La Courneuve 8 mai 1945
+E 256 362 37 2 direction Nation
+E 257 265 26 8 direction Créteil Pointe du Lac
+E 257 200 51 8 direction Balard
+E 258 6 46 1 direction La Château de Vicennes
+E 258 166 38 1 direction La défense
+E 259 36 84 10 direction Boulogne Pont de St-Cloud
+E 260 266 37 7 direction Mairie d'Ivry
+E 260 184 31 7 directon La Courneuve 8 mai 1945
+E 261 266 46 7 directon La Courneuve 8 mai 1945
+E 261 237 37 7 direction Mairie d'Ivry
+E 262 3 33 4 direction Porte de Clignacourt
+E 262 379 40 4 direction Mairie de Montrouge
+E 263 114 72 3 direction Gallieni
+E 263 115 39 3 direction Pont de Levallois Bécon
+E 264 286 41 3 direction Gallieni
+E 264 171 49 3 direction Pont de Levallois Bécon
+E 265 257 26 8 direction Balard
+E 265 167 31 8 direction Créteil Pointe du Lac
+E 266 260 37 7 direction La Courneuve 8 mai 1945
+E 266 261 46 7 directon Mairie d'Ivry
+E 267 39 46 13 direction Châtillon Montrouge
+E 267 180 91 13 direction Asnières Gennevilliers les Courtilles
+E 268 337 39 4 direction Mairie de Montrouge
+E 269 301 35 9 direction Mairie de Montreuil
+E 269 190 27 9 Pont de Sèvres
+E 270 134 47 5 direction Bobigny Pablo Picasso
+E 270 226 39 5 direction Place d'Italie
+E 271 104 40 9 direction Mairie de Montreuil
+E 271 193 38 9 direction Pont de Sèvres
+E 272 126 37 13 direction Saint-Denis Université
+E 272 131 63 13 direction Châtillon Montrouge
+E 273 249 35 13 direction Saint-Denis Université ou Asnières Gennevilliers les Courtilles
+E 273 187 46 13 direction Châtillon Montrouge
+E 274 80 41 12 direction Aubervilliers Front Populaire
+E 274 81 43 12 direction Mairie d'Issy
+E 275 328 41 1 direction Château de Vincennes
+E 275 212 86 1 direction La Défense
+E 276 380 66 12 direction Auberviolliers Front Populaire
+E 276 194 67 12 direction Mairie d'Issy
+E 277 82 47 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 277 10 42 7 direction La Courneuve 8 Mai 1945
+E 278 357 59 11 direction Châtelet
+E 278 183 51 11 direction Mairie des Lilas
+E 279 320 37 3 Bis direction Gambetta
+E 280 92 43 7 Bis direction Luis Blanc
+E 281 69 131 14 direction Olympiade
+E 281 176 71 14 direction Saint Lazare
+E 282 228 49 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 282 224 80 7 direction La Courneuve 8 Mai 1945
+E 283 20 38 11 direction Châtelet
+E 283 146 33 11 direction Mairie des Lilas
+E 284 235 44 2 direction Nation
+E 284 211 49 2 direction Porte Dauphine
+E 285 305 61 3 direction Pont de Levallois Bécon
+E 285 115 70 3 direction Gallieni
+E 286 370 35 3 direction Gallieni
+E 286 264 41 3 direction Pont de Levallois Bécon
+E 287 62 53 6 direction Charles de Gaulle Etoile
+E 287 23 57 6 direction Nation
+E 288 118 30 5 direction Place d'Italie
+E 288 17 89 5 direction Bobigny Pablo Picasso
+E 289 223 43 3 direction Pont de Levallois Bécon
+E 289 38 38 3 direction Gallieni
+E 290 136 73 11 direction Châtelet
+E 290 7 39 11 Mairie des Lilas
+E 291 157 49 9 direction Mairie de Montreuil
+E 291 141 37 9 direction Pont de Sèvres
+E 292 361 38 4 direction Porte de Clignancourt
+E 292 95 37 4 direction Mairie de Montrouge
+E 293 101 43 6 direction Charles de Gaulle Etoile
+E 293 96 42 6 direction Nation
+E 294 347 46 12 direction Aubervilliers Front Populair
+E 294 218 38 12 direction Mairie d'Issy
+E 295 212 64 1 direction Château de Vincennes
+E 295 119 41 1 direction La Défense
+E 296 205 38 8 direction Créteil Pointe du Lac
+E 296 105 42 8 direction Balard
+E 297 219 50 5 direction Bobigny Pablo Picasso
+E 297 40 37 5 direction Place d'Italie
+E 298 303 46 8 direction Créteil Point du Lac
+E 298 225 75 8 direction Balard
+E 299 304 48 9 direction Mairie de Montreuil
+E 299 60 63 9 direction Pont de Sèvres
+E 300 341 46 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 300 87 43 7 direction La Courneuve 8 Mai 1945
+E 301 88 47 9 direction Mairie de Montreuil
+E 301 269 35 9 direction Pont de Sèvres
+E 302 366 53 2 direction Porte Dauphine
+E 302 246 37 2 direction Nation
+E 303 298 46 8 direction Balard
+E 303 32 41 8 direction Créteil Pointe du Lac
+E 304 299 48 9 direction Pont de Sèvres
+E 304 33 41 9 direction Mairie de Montreuil
+E 305 285 61 3 direction Gallieni
+E 305 229 43 3 direction Pont de Levalloi Bécon
+E 306 355 33 9 direction Mairie de Montreuil
+E 306 157 36 9 direction Pont de Sèvres
+E 307 215 60 9 direction Mairie de Montreuil
+E 307 58 31 9 direction Pont de Sèvres
+E 308 347 29 12 direction Mairie d'Issy
+E 308 338 33 12 direction Aubervilliers Front Populaire
+E 309 336 65 3 direction Pont de Levalois Bécon
+E 309 8 58 3 direction Gallieni
+E 310 375 28 4 direction Mairie de Montrouge
+E 310 342 67 4 direction Porte de Clignancourt
+E 311 129 49 11 direction Mairie des Lilas
+E 311 7 79 11 direction Châtelet
+E 312 350 37 3 direction Pont de Levallois 
+E 312 229 64 3 direction Gallieni
+E 313 219 81 5 direction Place d'Italie
+E 313 140 47 5 direction Bobigny Pablo Picasso
+E 314 343 98 8 direction Balard
+E 314 107 49 8 direction Créteil Pointe du Lac
+E 315 344 107 9 directon Pont de Sèvres
+E 315 220 80 9 directon Mairie de Montreuil
+E 316 369 27 9 direction Mairie de Montreil
+E 316 220 35 9 direction Pont de Sèvres
+E 317 203 53 9 direction Pont de Sèvres
+E 317 133 49 9 direction Mairie de Montreuil
+E 318 48 60 13 direction Châtillon Montrouge
+E 318 15 37 13 direction Saint-Denis-Université
+E 319 15 73 13 direction Châtillon Montrouge
+E 320 279 37 3 Bis direction Mairie des Lilas
+E 320 233 33 3 Bis direction Gambetta
+E 321 359 23 13 direction Saint-Denis Université ou Asnière Gennevilliers 
+E 321 100 59 13 direction Châtillon Montrouge
+E 322 238 27 12 direction Aubervilliers Front Populaire
+E 322 217 37 12 direction Mairie d'Issy
+E 323 334 47 4 direction Mairie de Montrouge
+E 323 222 42 4 direction Porte de Clignancourt
+E 324 128 42 6 direction Nation
+E 324 96 52 6 direction Charles de Gaulle Etoile
+E 325 353 69 12 direction Aubervilliers Front Populaire
+E 325 175 144 12 direction Mairie d'Issy
+E 326 202 112 13 direction Châtillon Montrouge
+E 326 168 49 13 direction Saint-Denis Université ou Asnière Gennevilliers 
+E 327 132 40 3 direction Gallieni
+E 327 303 44 3 direction Pont de Levallois Bécon
+E 328 275 41 1 direction La Défense
+E 328 43 57 1 direction Château de Vincennes
+E 329 118 60 5 direction Bobigny Pablo Picasso
+E 329 46 46 5 direction Place d'Italie
+E 330 222 31 4 direction de Mairie de Montrouge
+E 330 73 46 4 direction Porte de Clignancourt
+E 331 135 65 1 direction La Défense
+E 331 16 62 1 direction Château de Vincennes
+E 332 203 40 9 direction Mairie de Montreuil
+E 332 110 37 9 direction Pont de Sèvres
+E 333 334 32 4 direction Porte de Clignancourt
+E 333 208 48 4 direction Mairie de Montrouge
+E 334 333 32 4 direction Mairie de Montrouge
+E 334 323 47 4 direction Porte de Clignancourt
+E 335 61 28 8 direction Créteil Pointe du Lac
+E 335 107 9 8 direction Balard
+E 336 309 65 3 direction Gallieni
+E 336 38 35 3 direction Pont de Levallois Bécon
+E 337 268 39 4 direction Porte de Clignancourt
+E 337 192 36 4 direction Mairie de Montrouge
+E 338 308 33 12 direction Mairie d'Issy
+E 338 9 28 12 direction Aubervilliers Front Populaire
+E 339 151 93 2 direction Porte Dauphine
+E 339 142 27 2 direction Nation
+E 340 143 29 5 direction Pablo Picasso
+E 340 125 107 5 direction Place d'Italie
+E 341 300 46 7 direction La Courneuve 8 mai 1945
+E 341 169 54 7 direction Villejuif-Louis Aragon ou Mairie d'Ivry
+E 342 310 67 4 direction Mairie de Montrouge
+E 342 65 41 4 direction Porte de Clignancourt
+E 343 314 98 8 direction Créteil Pointe du Lac
+E 343 32 54 8 direction Balard
+E 344 315 107 9 directon Mairie de Montreuil
+E 344 33 52 9 direction Pont de Sèvres
+E 345 254 75 7 direction La Courneuve 8 mai 1945
+E 345 149 79 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 346 358 33 10 direction Boulogne Pont de St-Cloud
+E 346 174 72 10 direction Gare d'Austerlitz
+E 347 308 29 12 direction Aubervilliers Front Populair
+E 347 294 46 12 direction Mairie d'Issy
+E 348 232 46 6 directoin Nation
+E 348 45 43 6 direction Charles de Gaulle Etoile
+E 349 154 33 10 direction Boulogne Pont de St-Cloud
+E 349 99 54 10 direction Gare d'Austerlitz
+E 350 312 37 3 direction Gallieni
+E 350 8 38 3 direction Pont deLevallois Bécon
+E 351 85 46 2 direction Nation
+E 351 56 59 2 direction Porte Dauphine
+E 352 244 37 7 direction La Courneuve 8 mai 1945
+E 352 184 36 7 direction Villejuif-Louis Aragon ou Mairi d'Ivry
+E 353 325 69 12 direction Mairie d'Issy
+E 353 217 29 12 direction Aubervilliers Front Populair
+E 354 230 62 6 direction Nation
+E 354 30 24 6 direction Charles de Gaulle Etoile
+E 355 306 33 9 direction Pont de Sèvres
+E 355 139 46 9 direction Mairie de Montreuil
+E 356 227 38 1 direction Château de Vincennes
+E 356 77 57 1 direction La Défense
+E 357 278 59 11 direction Mairie des Lilas
+E 357 247 23 11 direction Châtelet
+E 358 99 31 10 direction Boulogne Pont de St-Cloud
+E 358 346 33 10 direction Gare d'Austerlitz
+E 359 321 23 13 direction Chatillon-Montrouge
+E 359 137 54 13 direction Saint-Denis Université ou Asnière Gennevilliers 
+E 360 368 47 12 direction Aubervilliers Front Populaire
+E 360 80 49 12 direction Mairie d'Issy
+E 361 292 38 4 direction Maire de Montrouge
+E 361 208 42 4 direction Porte de Clignancourt
+E 362 256 37 2 direction Porte Dauphine
+E 362 56 75 2 direction Nation
+E 363 365 28 7 dierction La Courneuve 8 mai 1945
+E 364 365 28 7 direction Villejuif-Louis Aragon
+E 364 161 28 7 direction La Courneuve 8 mai 1945
+E 365 363 28 7 dierction Villejuif-Louis Aragon
+E 365 364 28 7 direction La Courneuve 8 mai 1945
+E 366 302 53 2 direction Nation
+E 366 204 51 2 direction Porte Dauphine
+E 367 189 49 3 direction Pont de Levallois Bécon
+E 367 103 30 3 direction Gallieni
+E 368 360 47 12 direction Mairie d'Issy
+E 368 231 40 12 direction Aubervilliers Front Populaire
+E 369 316 27 9 direction Pont de Sèvres
+E 369 58 31 9 direction Mairie de Montreil
+E 370 286 35 3 direction Pont de Levallois Bécon
+E 370 189 35 3 direction Gallieni
+E 371 158 66 8 direction Créteil Pointe du Lac
+E 371 156 46 8 direction Balard
+E 372 186 33 8 direction Creteil Pointe du Lac
+E 372 53 47 8 direction Balard
+E 373 196 37 10 direction Boulogne Pont de St-Cloud
+E 373 145 55 10 direction Gare d'Austerlitz
+E 374 134 53 5 direction Place d'Italie
+E 374 29 46 5 direction Bobigny Pablo Picasso
+E 375 310 28 4 directionPorte de Clignancourt
+E 375 165 33 4 direction Mairie de Montrouge
+E 376 24 70 14 direction Saint-Lazare
+E 377 86 30 8 direction Balard
+E 378 112 31 13 direction Châtillon Montrouge
+E 378 381 45 13 direction Asnières Gennevilliers les Courtilles
+E 379 262 40 4 direction Porte de Clignancourt
+E 380 276 66 12 direction Mairie d'Issy
+E 381 378 45 13 direction Châtillon Montrouge
+E 382 176 80 14 direction Olynpiade
+E 7 8 180 11 Correspondance ligne 3
+E 8 7 180 3 Correspondance ligne 11
+E 13 14 180 2 Correspondance ligne 4
+E 14 13 180 4 Correspondance ligne 2
+E 16 18 240 1 Correspondance ligne 8
+E 18 16 240 8 Correspondance ligne 1
+E 16 17 240 1 Correspondance ligne 5
+E 17 16 240 5 Correspondance ligne 1
+E 17 18 240 5 Correspondance ligne 8
+E 20 21 180 11 Correspondance ligne 2
+E 21 20 180 2 Correspondance ligne 11
+E 22 23 180 14 Correspondance ligne 6
+E 23 22 180 6 Correspondance ligne 14
+E 32 33 180 8 Correspondance ligne 9
+E 33 32 180 9 Correspondance ligne 8
+E 50 51 180 1 Correspondance ligne 13
+E 51 50 180 13 Correspondance ligne 1
+E 55 57 240 1 Correspondance ligne 6
+E 55 56 240 1 Correspondance ligne 2
+E 56 57 240 2 Correspondance ligne 6
+E 56 55 240 2 Correspondance ligne 1
+E 57 55 240 6 Correspondance ligne 1
+E 57 56 240 6 Correspondance ligne 2
+E 59 60 180 7 Correspondance ligne 9
+E 60 59 180 9 Correspondance ligne 7
+E 67 69 300 1 Correspondance ligne 14
+E 67 68 300 1 Correspondance ligne 11
+E 67 70 300 1 Correspondance ligne 4
+E 67 71 300 1 Correspondance ligne 7
+E 68 69 300 11 Correspondance ligne 14
+E 68 70 300 11 Correspondance ligne 4
+E 68 71 300 11 Correspondance ligne 7
+E 68 67 300 11 Correspondance ligne 1
+E 69 70 300 14 Correspondance ligne 4
+E 69 71 300 14 Correspondance ligne 7
+E 69 67 300 14 Correspondance ligne 1
+E 69 68 300 14 Correspondance ligne 11
+E 70 71 300 4 Correspondance ligne 7
+E 70 69 300 4 Correspondance ligne 14
+E 70 68 300 4 Correspondance ligne 11
+E 70 67 300 4 Correspondance ligne 1
+E 71 67 300 7 Correspondance ligne 1
+E 71 68 300 7 Correspondance ligne 11
+E 71 69 300 7 Correspondance ligne 14
+E 71 70 300 7 Correspondance ligne 4
+E 77 79 240 1 Correspondance ligne 8
+E 77 78 240 1 Correspondance ligne 12
+E 78 79 240 12 Correspondance ligne 8
+E 78 77 240 12 Correspondance ligne 1
+E 79 77 240 8 Correspondance ligne 1
+E 79 78 240 8 Correspondance ligne 12
+E 93 94 180 6 Correspondance ligne 8
+E 94 93 180 8 Correspondance ligne 6
+E 95 96 180 4 Correspondance ligne 6
+E 96 95 180 6 Correspondance ligne 4
+E 99 100 180 10 Correspondance ligne 13
+E 100 99 180 13 Correspondance ligne 10
+E 109 110 180 1 Correspondance ligne 9
+E 110 109 180 9 Correspondance ligne 1
+E 115 116 180 3 Correspondance ligne 3 Bis
+E 116 115 180 3 Bis Correspondance ligne 3
+E 117 118 180 10 Correspondance ligne 5
+E 118 117 180 5 Correspondance ligne 10
+E 119 120 180 1 Correspondance ligne 14
+E 120 119 180 14 Correspondance ligne 1
+E 121 123 240 4 Correspondance ligne 7
+E 121 122 240 4 Correspondance ligne 5
+E 122 123 240 5 Correspondance ligne 7
+E 122 121 240 5 Correspondance ligne 4
+E 123 122 240 7 Correspondance ligne 5
+E 123 121 240 7 Correspondance ligne 4
+E 124 125 180 4 Correspondance ligne 5
+E 124 125 180 5 Correspondance ligne 4
+E 132 133 180 3 Correspondance ligne 9
+E 133 132 180 9 Correspondance ligne 3
+E 135 136 180 1 Correspondance ligne 11
+E 136 135 180 11 Correspondance ligne 1
+E 137 138 180 13 Correspondance ligne 8
+E 138 137 180 8 Correspondance ligne 13
+E 142 144 240 2 Correspondance ligne 7
+E 142 143 240 2 Correspondance ligne 5
+E 143 144 240 5 Correspondance ligne 7
+E 143 142 240 5 Correspondance ligne 2
+E 144 142 240 7 Correspondance ligne 7
+E 144 143 240 7 Correspondance ligne 5
+E 148 149 180 10 Correspondance ligne 7
+E 149 148 180 7 Correspondance ligne 10
+E 154 156 240 10 Correspondance ligne 8
+E 154 155 240 10 Correspondance ligne 6
+E 155 156 240 6 Correspondance ligne 8
+E 155 154 240 6 Correspondance ligne 10
+E 156 154 240 8 Correspondance ligne 10
+E 156 155 240 8 Correspondance ligne 6
+E 169 170 180 7 Correspondance ligne 7 Bis
+E 170 169 180 7 Bis Correspondance ligne 7
+E 175 177 240 12 Correspondance ligne 8
+E 175 176 240 12 Correspondance ligne 14
+E 176 177 240 14 Correspondance ligne 8
+E 176 175 240 14 Correspondance ligne 12
+E 177 175 240 8 Correspondance ligne 12
+E 177 176 240 8 Correspondance ligne 14
+E 191 192 180 12 Correspondance ligne 4
+E 192 191 180 4 Correspondance ligne 12
+E 196 197 180 10 Correspondance ligne 9
+E 197 196 180 9 Correspondance ligne 10
+E 198 199 180 10 Correspondance ligne 9
+E 199 198 180 9 Correspondance ligne 10
+E 202 203 180 13 Correspondance ligne 9
+E 203 202 180 9 Correspondance ligne 13
+E 206 208 300 12 Correspondance ligne 4
+E 206 207 300 12 Correspondance ligne 13
+E 206 209 300 12 Correspondance ligne 6
+E 207 208 300 13 Correspondance ligne 4
+E 207 209 300 13 Correspondance ligne 6
+E 207 206 300 13 Correspondance ligne 12
+E 208 209 300 4 Correspondance ligne 6
+E 208 207 300 4 Correspondance ligne 13
+E 208 206 300 4 Correspondance ligne 12
+E 209 206 300 6 Correspondance ligne 12
+E 209 207 300 6 Correspondance ligne 13
+E 209 208 300 6 Correspondance ligne 4
+E 212 214 300 1 Correspondance ligne 6
+E 212 213 300 1 Correspondance ligne 2
+E 212 215 300 1 Correspondance ligne 9
+E 213 214 300 2 Correspondance ligne 6
+E 213 215 300 2 Correspondance ligne 9
+E 213 212 300 2 Correspondance ligne 1
+E 214 215 300 6 Correspondance ligne 9
+E 214 213 300 6 Correspondance ligne 2
+E 214 212 300 6 Correspondance ligne 1
+E 215 212 300 9 Correspondance ligne 1
+E 215 213 300 9 Correspondance ligne 2
+E 215 214 300 9 Correspondance ligne 6
+E 219 220 180 5 Correspondance ligne 9
+E 220 219 180 9 Correspondance ligne 5
+E 221 222 180 10 Correspondance ligne 4
+E 222 221 180 4 Correspondance ligne 10
+E 223 225 240 3 Correspondance ligne 8
+E 223 224 240 3 Correspondance ligne 7
+E 224 225 240 7 Correspondance ligne 8
+E 224 223 240 7 Correspondance ligne 3
+E 225 224 240 8 Correspondance ligne 7
+E 225 223 240 8 Correspondance ligne 3
+E 227 228 180 1 Correspondance ligne 8
+E 228 227 180 8 Correspondance ligne 1
+E 231 232 180 12 Correspondance ligne 6
+E 232 231 180 6 Correspondance ligne 12 
+E 238 239 180 12 Correspondance ligne 2
+E 239 238 180 2 Correspondance ligne 12
+E 242 244 240 5 Correspondance ligne 7
+E 242 243 240 5 Correspondance ligne 6
+E 243 244 240 6 Correspondance ligne 7
+E 243 242 240 6 Correspondance ligne 5
+E 244 242 240 7 Correspondance ligne 5
+E 244 243 240 7 Correspondance ligne 6
+E 245 246 180 13 Correspondance ligne 2
+E 246 245 180 2 Correspondance ligne 13
+E 247 248 180 11 Correspondance ligne 7
+E 248 247 180 7 Correspondance ligne 11
+E 278 279 180 11 Correspondance ligne 3
+E 279 278 180 3 Correspondance ligne 11
+E 281 282 180 14 Correspondance ligne 7
+E 282 281 180 7 Correspondance ligne 14
+E 284 285 180 2 Correspondance ligne 3
+E 285 284 180 3 Correspondance ligne 2
+E 292 293 180 4 Correspondance ligne 6
+E 293 292 180 6 Correspondance ligne 4
+E 295 296 180 1 Correspondance ligne 8
+E 296 295 180 8 Correspondance ligne 1
+E 298 299 180 8 Correspondance ligne 9
+E 299 298 180 9 Correspondance ligne 8
+E 303 304 180 8 Correspondance ligne 9
+E 304 303 180 9 Correspondance ligne 8
+E 309 310 180 3 Correspondance ligne 4
+E 310 309 180 4 Correspondance ligne 3
+E 311 313 300 11 Correspondance ligne 5
+E 311 312 300 11 Correspondance ligne 3
+E 311 314 300 11 Correspondance ligne 8
+E 311 315 300 11 Correspondance ligne 9
+E 312 313 300 3 Correspondance ligne 5
+E 312 314 300 3 Correspondance ligne 8 
+E 312 315 300 3 Correspondance ligne 9
+E 312 311 300 3 Correspondance ligne 11
+E 313 314 300 5 Correspondance ligne 8
+E 313 315 300 5 Correspondance ligne 9
+E 313 311 300 5 Correspondance ligne 11
+E 313 312 300 5 Correspondance ligne 3
+E 314 315 300 8 Correspondance ligne 9
+E 314 311 300 8 Correspondance ligne 11
+E 314 312 300 8 Correspondance ligne 3
+E 314 313 300 8 Correspondance ligne 5
+E 315 311 300 9 Correspondance ligne 11
+E 315 312 300 9 Correspondance ligne 3
+E 315 313 300 9 Correspondance ligne 5
+E 315 314 300 9 Correspondance ligne 8
+E 325 327 240 12 Correspondance ligne 3
+E 325 326 240 12 Correspondance ligne 13
+E 326 325 240 13 Correspondance ligne 12
+E 326 382 240 13 Correspondance ligne 14
+E 325 382 240 12 Correspondance ligne 14
+E 326 327 240 13 Correspondance ligne 3
+E 327 325 240 3 Correspondance ligne 12
+E 327 326 240 3 Correspondance ligne 13
+E 327 382 240 13 Correspondance ligne 14
+E 382 325 300 14 Correspondance ligne 12
+E 382 326 300 14 Correspondance ligne 13 
+E 382 327 300 14 Correspondance ligne 3
+E 339 341 240 2 Correspondance ligne 7
+E 339 340 240 2 Correspondance ligne 5
+E 340 341 240 5 Correspondance ligne 7
+E 340 339 240 5 Correspondance ligne 2
+E 341 340 240 7 Correspondance ligne 5
+E 341 339 240 7 Correspondance ligne 2
+E 342 344 240 4 Correspondance ligne 9
+E 342 343 240 4 Correspondance ligne 8
+E 343 344 240 8 Correspondance ligne 9
+E 343 342 240 8 Correspondance ligne 4
+E 344 342 240 9 Correspondance ligne 4
+E 344 343 240 9 Correspondance ligne 8
+E 346 347 180 10 Correspondance ligne 12
+E 347 346 180 12 Correspondance ligne 10
+E 354 355 180 6 Correspondance ligne 9
+E 355 354 180 9 Correspondance ligne 6
+E 366 367 180 2 Correspondance ligne 3
+E 367 366 180 3 Correspondance ligne 2
